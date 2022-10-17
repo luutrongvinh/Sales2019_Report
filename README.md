@@ -1,4 +1,4 @@
 # Sales2019_Report
-Jupiter Notebook
+Jupiter Notebook.
 Imported library: pandas and matplotlib.pyplot
 
